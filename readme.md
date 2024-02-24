@@ -1,5 +1,5 @@
 
-# Lalasia ✨ 
+# MapLock ✨ 
 
 A simple react native app to display market at map location based on picture's taken location.
 
@@ -7,6 +7,10 @@ Feature :
 
 > login form without credential
 > image form with save, delete, take picture or pick image feature
+
+For apk installation :
+
+> in folder apk
 
 ## Tech Stack
 
