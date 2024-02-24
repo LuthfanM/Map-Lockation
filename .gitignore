@@ -5,8 +5,10 @@ node_modules/
 
 # Expo
 .expo/
+.vscode
 dist/
 web-build/
+credentials.json
 
 # Native
 *.orig.*
@@ -33,3 +35,5 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+android/keystores
